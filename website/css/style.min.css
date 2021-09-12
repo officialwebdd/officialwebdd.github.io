@@ -1,13 +1,8 @@
-/*
- * Moon by GetTemplates.co
- * URL: https://gettemplates.co
- */
 html {
   font-size: 62.5%;
   overflow-x: hidden; }
 
 body {
-  background-image: url(./../img/bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -25,9 +20,9 @@ body {
     position: fixed;
     opacity: .8;
     z-index: -1;
-    background: #f12711;
-    background: -webkit-linear-gradient(to right, #f5af19, #f12711);
-    background: linear-gradient(to right, #f5af19, #f12711); }
+    background: #6c8aa5;
+    background: -webkit-linear-gradient(to right);
+    background: linear-gradient(to right); }
 
 .boxed-page {
   margin: 0 auto;
@@ -161,6 +156,10 @@ a {
 
 .fs-40 {
   font-size: 40px; }
+
+.heading {
+  color: white;
+}
 
 /* Custom default button */
 .btn-secondary,
