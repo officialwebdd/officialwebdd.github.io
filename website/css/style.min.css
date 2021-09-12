@@ -215,7 +215,9 @@ a {
     opacity: 1; }
 
 .navbar-toggler {
-  font-size: 3rem; }
+  font-size: 3rem; 
+  background-color: #6c8aa5;
+}
 
 .not-on-top #gtco-header-navbar {
   position: fixed;
@@ -410,6 +412,11 @@ a {
     font-size: 60%; }
   .price-box .price-box-list {
     min-height: 150px; }
+
+.logo,img {
+  width: 40%;
+  height: 40%;
+}
 
 footer {
   border-bottom-left-radius: 5px;
